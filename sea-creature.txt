@@ -7,3 +7,4 @@ Stonefish
 Angler Fish
 Barracuda
 Octopus
+Oceanic Whitetip
