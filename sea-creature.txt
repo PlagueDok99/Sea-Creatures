@@ -5,3 +5,4 @@ Moray Eel
 Blue Whale
 Stonefish
 Angler Fish
+Barracuda
