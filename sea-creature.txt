@@ -6,3 +6,4 @@ Blue Whale
 Stonefish
 Angler Fish
 Barracuda
+Octopus
