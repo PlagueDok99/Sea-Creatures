@@ -9,3 +9,4 @@ Barracuda
 Octopus
 Humpback Whale
 Oceanic Whitetip
+Jellyfish
